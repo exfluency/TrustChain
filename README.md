@@ -3,10 +3,10 @@
 Ethereum Mainnet Smart Contract Address: 0x25c3950BeBA4a779C29C54A9E55B44B716B8826F
 
 Smart contract is executed once a day with the following data:
-   - version - data format version (currently 0 - for demo data, 1 - first production data)
-   - dateFrom - timestamp of the first record date
-   - dateTo - timestamp of the last record date
-   - hash - sha256 hash of the data
+   - `version` - data format version (currently 0 - for demo data, 1 - first production data)
+   - `dateFrom` - timestamp of the first record date
+   - `dateTo` - timestamp of the last record date
+   - `hash` - sha256 hash of the data
 
 Example transaction on Etherscan is [here](https://etherscan.io/tx/0x224d0ff03ad96841d82bc42f2cf9497a6715c15098b8ca8275f2552359d238e8)
 
